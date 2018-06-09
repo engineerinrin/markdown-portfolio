@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1.Greenpeace rice
+2.curry
+3.Bamboo shoots rice
