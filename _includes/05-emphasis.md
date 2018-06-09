@@ -1,3 +1,3 @@
-* Java
-* C#
-* JavaScript
+* __Java__
+* __C\#__
+* __JavaScript__
