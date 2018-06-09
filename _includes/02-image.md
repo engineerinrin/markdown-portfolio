@@ -1,1 +1,1 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Shachihoko](https://avatars3.githubusercontent.com/u/36086654?s=460&v=4)
